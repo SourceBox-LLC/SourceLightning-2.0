@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="lightning MD logo.png" alt="LightningMD Logo" width="200" height="200">
+  <img src="lightning MD logo.png" alt="LightningMD Logo" width="200" height="200" style="border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   
   # ⚡ LightningMD
   
