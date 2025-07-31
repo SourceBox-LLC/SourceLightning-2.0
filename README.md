@@ -1,8 +1,12 @@
-# ⚡ LightningMD
-
-**AI-Powered Documentation Generator**
-
-LightningMD is a powerful, modern documentation generator that leverages local AI models to create comprehensive, professional documentation for your software projects. Built with a beautiful Flet UI and powered by Ollama, it transforms your GitHub repositories and local projects into well-structured, detailed documentation.
+<div align="center">
+  <img src="lightning MD logo.png" alt="LightningMD Logo" width="200" height="200">
+  
+  # ⚡ LightningMD
+  
+  **AI-Powered Documentation Generator**
+  
+  <p>LightningMD is a powerful, modern documentation generator that leverages local AI models to create comprehensive, professional documentation for your software projects. Built with a beautiful Flet UI and powered by Ollama, it transforms your GitHub repositories and local projects into well-structured, detailed documentation.</p>
+</div>
 
 ![LightningMD Interface](https://img.shields.io/badge/UI-Flet-purple?style=for-the-badge) ![AI Model](https://img.shields.io/badge/AI-Ollama-blue?style=for-the-badge) ![Python](https://img.shields.io/badge/Python-3.8+-green?style=for-the-badge)
 
