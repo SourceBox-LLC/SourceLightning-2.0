@@ -1,0 +1,7 @@
+flet
+requests
+colorama
+gitpython
+chromadb
+tiktoken
+python-magic-bin
