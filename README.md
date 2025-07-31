@@ -1,6 +1,6 @@
 <div align="center">
 
-![LightningMD Logo](lightning%20MD%20logo.png)
+<img src="lightning MD logo.png" alt="LightningMD Logo" width="150" height="150" style="border-radius: 15px;">
 
 # ⚡ LightningMD
 
